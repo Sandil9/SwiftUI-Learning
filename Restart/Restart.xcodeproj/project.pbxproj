@@ -12,6 +12,7 @@
 		D421E4AC28F5233F009F437C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D421E4AB28F5233F009F437C /* OnboardingView.swift */; };
 		D421E4AE28F5234B009F437C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D421E4AD28F5234B009F437C /* HomeView.swift */; };
 		D421E4B028F52F34009F437C /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D421E4AF28F52F34009F437C /* CircleGroupView.swift */; };
+		D421E4B228F54CD4009F437C /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D421E4B128F54CD4009F437C /* AudioPlayer.swift */; };
 		D43C7B3328F4463200EB4EF7 /* RestartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43C7B3228F4463200EB4EF7 /* RestartApp.swift */; };
 		D43C7B3528F4463200EB4EF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43C7B3428F4463200EB4EF7 /* ContentView.swift */; };
 		D43C7B3728F4463400EB4EF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D43C7B3628F4463400EB4EF7 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		D421E4AB28F5233F009F437C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		D421E4AD28F5234B009F437C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		D421E4AF28F52F34009F437C /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
+		D421E4B128F54CD4009F437C /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
 		D43C7B2F28F4463200EB4EF7 /* Restart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D43C7B3228F4463200EB4EF7 /* RestartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestartApp.swift; sourceTree = "<group>"; };
 		D43C7B3428F4463200EB4EF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 		D421E4A928F521CA009F437C /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				D421E4B128F54CD4009F437C /* AudioPlayer.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				D421E4AE28F5234B009F437C /* HomeView.swift in Sources */,
 				D43C7B3528F4463200EB4EF7 /* ContentView.swift in Sources */,
 				D43C7B3328F4463200EB4EF7 /* RestartApp.swift in Sources */,
+				D421E4B228F54CD4009F437C /* AudioPlayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
