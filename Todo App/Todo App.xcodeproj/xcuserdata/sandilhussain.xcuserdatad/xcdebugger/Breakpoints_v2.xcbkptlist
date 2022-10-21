@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DDF3217-FED3-4DAA-8F26-A0D07A25C5D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04E5A418-1C23-4BEC-8D2C-6CFD1283B967"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Todo App/Utility/IconNames.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "04E5A418-1C23-4BEC-8D2C-6CFD1283B967 - 6fe4abc570cfa1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todo_App.IconNames.init() -&gt; Todo_App.IconNames"
+                  moduleName = "Todo App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandilhussain/Desktop/Learning%20Material/SwiftUI-Learning/Todo%20App/Todo%20App/Utility/IconNames.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "04E5A418-1C23-4BEC-8D2C-6CFD1283B967 - 6fe4abc570cfa1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todo_App.IconNames.init() -&gt; Todo_App.IconNames"
+                  moduleName = "Todo App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandilhussain/Desktop/Learning%20Material/SwiftUI-Learning/Todo%20App/Todo%20App/Utility/IconNames.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "346">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
